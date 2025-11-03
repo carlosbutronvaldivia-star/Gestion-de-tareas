@@ -1,0 +1,13 @@
+{
+  "Carlos": {
+    "contraseña": "123",
+    "tareas": [
+      {
+        "título": "Estudiar",
+        "descripcion": "python",
+        "fecha_vencimiento": "2025-11-03",
+        "completado": false
+      }
+    ]
+  }
+}
